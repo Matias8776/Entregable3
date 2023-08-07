@@ -1,17 +1,30 @@
 # Entregable 3
 
+&nbsp;
+
 ## Correr el proyecto:
 
-### node --watch ./src/app.js o nodemon .src/app.js
+###
+
+-   git clone https://github.com/Matias8776/Entregable3.git
+-   cd Entregable3
+-   npm install
+-   node --watch ./src/app.js || nodemon .src/app.js
 
 ## Mostrar productos:
 
-### localhost:8080/products
+###
+
+-   localhost:8080/products
 
 ## Buscar producto por ID:
 
-### localhost:8080/products/1
+###
+
+-   localhost:8080/products/1
 
 ## Mostrar productos con limite:
 
-### localhost:8080/products?limit=5
+###
+
+-   localhost:8080/products?limit=5
