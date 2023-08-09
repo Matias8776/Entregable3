@@ -9,7 +9,7 @@
 -   git clone https://github.com/Matias8776/Entregable3.git
 -   cd Entregable3
 -   npm install
--   node --watch ./src/app.js || nodemon .src/app.js
+-   npm start
 
 ## Mostrar productos:
 
